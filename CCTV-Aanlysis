@@ -1,0 +1,7 @@
+cd Documents/DataScience/source_code/CCTV_Seoul.ipynb
+git init
+git remote add origin https://github.com/sea20200506/CCTV-Aanlysis.git
+
+git add CCTV_Seoul.ipynb
+git commit -m "첫 업로드"
+git push -u origin main
